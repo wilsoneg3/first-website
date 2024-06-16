@@ -1,5 +1,7 @@
 ---
-title: "Eric Wilson"
+title: "About"
 ---
 
-About this site
+## About Me
+My name is **Eric Wilson** and I graduated form *Lafayette College*.
+["Kane's Free Data Science Bootcamp"](https://bootcamp.davidkane.info)
