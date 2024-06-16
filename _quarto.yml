@@ -1,8 +1,8 @@
 project:
   type: website
 
-website:
-  title: "."
+website: 
+  title: "A New Website, second edition"
   navbar:
     left:
       - href: index.qmd
